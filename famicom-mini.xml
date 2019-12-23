@@ -100,12 +100,12 @@ author:			ruckage
 		</text>
 		
 		<text name="md_players, md_playcount">
-			<fontPath>./art/NESCyrillic_gamelist.ttf</fontPath>
+			<fontPath>./art/soya_ttul9.ttf</fontPath>
 		</text>
 				
 		
 		<text name="md_developer, md_publisher, md_genre">
-			<fontPath>./art/TinyUnicode.ttf</fontPath>
+			<fontPath>./art/soya_ttul9.ttf</fontPath>
 			<alignment>center</alignment>
 		</text>
 		
@@ -116,7 +116,7 @@ author:			ruckage
 		
 		<text name="md_description">
 			<forceUppercase>1</forceUppercase>
-			<fontPath>./art/TinyUnicode.ttf</fontPath>
+			<fontPath>./art/soya_ttul9.ttf</fontPath>
 			<fontSize>0.0444444444444444</fontSize>
 			<size>0.2447916666666667 0.437037037037037</size>
 			<alignment>left</alignment>
@@ -129,14 +129,14 @@ author:			ruckage
 		</datetime>
 		
 		<datetime name="md_releasedate">
-			<fontPath>./art/TinyUnicode.ttf</fontPath>
+			<fontPath>./art/soya_ttul9.ttf</fontPath>
 			<size>0.25 0.0333333333333333</size>
 		</datetime>
 		
 		<textlist name="gamelist">
 			<forceUppercase>0</forceUppercase>
 			<scrollSound>./sounds/se_sys_cursor.wav</scrollSound>
-			<fontPath>./art/NESCyrillic_gamelist.ttf</fontPath>
+			<fontPath>./art/soya_ttul9.ttf</fontPath>
 			<alignment>left</alignment>
 			<fontSize>0.0592592592592593</fontSize>
 		</textlist>
