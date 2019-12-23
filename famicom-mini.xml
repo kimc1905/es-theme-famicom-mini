@@ -100,12 +100,12 @@ author:			ruckage
 		</text>
 		
 		<text name="md_players, md_playcount">
-			<fontPath>./art/soya_nanoom9.ttf</fontPath>
+			<fontPath>./art/NESCyrillic_gamelist.ttf</fontPath>
 		</text>
 				
 		
 		<text name="md_developer, md_publisher, md_genre">
-			<fontPath>./art/soya_nanoom9.ttf</fontPath>
+			<fontPath>./art/soya_ttul9.ttf</fontPath>
 			<alignment>center</alignment>
 		</text>
 		
@@ -117,10 +117,10 @@ author:			ruckage
 		<text name="md_description">
 			<forceUppercase>1</forceUppercase>
 			<fontPath>./art/soya_nanoom9.ttf</fontPath>
-			<fontSize>0.0444444444444444</fontSize>
+			<fontSize>0.023444444444444444</fontSize>
 			<size>0.2447916666666667 0.437037037037037</size>
 			<alignment>left</alignment>
-			<lineSpacing>0.625</lineSpacing>
+			<lineSpacing>1.05</lineSpacing>
 		</text>
 		
 		<datetime name="md_lastplayed">
@@ -129,7 +129,7 @@ author:			ruckage
 		</datetime>
 		
 		<datetime name="md_releasedate">
-			<fontPath>./art/soya_nanoom9.ttf</fontPath>
+			<fontPath>./art/TinyUnicode.ttf</fontPath>
 			<size>0.25 0.0333333333333333</size>
 		</datetime>
 		
@@ -138,7 +138,8 @@ author:			ruckage
 			<scrollSound>./sounds/se_sys_cursor.wav</scrollSound>
 			<fontPath>./art/soya_nanoom9.ttf</fontPath>
 			<alignment>left</alignment>
-			<fontSize>0.0592592592592593</fontSize>
+			<fontSize>0.04992592592592593</fontSize>
+			<lineSpacing>1.655555</lineSpacing>
 		</textlist>
 		
 		<text name="logoText">
